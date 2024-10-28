@@ -4,7 +4,7 @@
 package zamira.estudiante.vectores_matrices;
 
 import java.util.Scanner;
-
+// CAMBIE LAS VARIABLES POR ENTEROS 
 public class Vectores_Matrices {
 
     public static void main(String[] args) {
