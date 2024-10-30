@@ -13,11 +13,11 @@ public class Vectores_Matrices {
         
         System.out.println("Ingresa el primer numero");
         int num1=sandy.nextInt();
-        System.out.println("Ingrese el segundo numero");
+        System.out.println("Ingrese el siguiente");
         int num2=sandy.nextInt();
         int suma=num1+num2;
      
-        System.out.println("La suma es:"+" "+suma );
+        System.out.println("El resultado de los 2 numeros es:"+" "+suma );
         
 
         //VECTORES  
